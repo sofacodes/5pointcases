@@ -10,8 +10,12 @@ With the following features:
 
 
 
-## Incomplete
-## Objectives
+
+
+
+
+
+## Incomplete Objectives
 
 ## Deploy
 
@@ -42,8 +46,8 @@ With the following features:
 
 
 
-## Completed
-## Objectives
+
+## Completed Objectives
 
 * [ ]  Diagram the Full Stack
 * [ ]  Differentiate between Client and Server
