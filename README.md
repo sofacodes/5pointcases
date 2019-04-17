@@ -2,6 +2,8 @@
 
 A basic twitter clone built to demonstrate the full stack 🥞 (client, server, database) built by following https://github.com/CodingGarden/meower
 
+Node.js, MongoDB (Deployed Locally)
+
 With the following features:
 
 * Customers can send a suggestion 🍺✉️
