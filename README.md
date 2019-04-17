@@ -1,3 +1,5 @@
+Ian Kim
+
 # 5 Point Cases & Kegs - Twitter Clone
 
 A basic twitter clone built to demonstrate the full stack 🥞 (client, server, database) built by following https://github.com/CodingGarden/meower
